@@ -1,8 +1,8 @@
 {
   "name": "generator-cpv-core-node-express",
-  "version": "0.0.37",
+  "version": "0.0.1",
   "description": "Yeoman generator for core node-express application",
-  "homepage": "https://github.ibm.com/arf/generator-core-node-express",
+  "homepage": "https://github.com/cvignola/generator-core-node-express",
   "author": {},
   "keywords": [
     "yeoman-generator"
@@ -29,9 +29,6 @@
     "yeoman-assert": "^2.2.1",
     "yeoman-test": "^1.5.1"
   },
-  "repository": "https://github.ibm.com/arf/node-codegen-yeoman",
+  "repository": "https://github.com/cvignola/generator-core-node-express",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm-registry.whitewater.ibm.com/"
-  }
 }
