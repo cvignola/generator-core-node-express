@@ -1,5 +1,5 @@
 {
-  "name": "@arf/generator-core-node-express",
+  "name": "generator-cpv-core-node-express",
   "version": "0.0.37",
   "description": "Yeoman generator for core node-express application",
   "homepage": "https://github.ibm.com/arf/generator-core-node-express",
