@@ -1,4 +1,6 @@
-# generator-core-node-express
+# generator-cpv-core-node-express
+
+## This package is **deprecated**.  It will eventually be unpublished.  If you depend on this package, switch to the generator-ibm-core-node-express package.
 
 | master           | development  |
 |------------------|--------------|
@@ -39,3 +41,4 @@ To test
 ```bash
 npm test
 ```
+
