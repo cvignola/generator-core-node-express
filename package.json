@@ -30,5 +30,5 @@
     "yeoman-test": "^1.5.1"
   },
   "repository": "https://github.com/cvignola/generator-core-node-express",
-  "license": "MIT",
+  "license": "MIT"
 }
